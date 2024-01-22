@@ -1,0 +1,36 @@
+[33mcommit a51a72ad86d197863c997d763f09c320ca78bad5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 9b63db6 861b88b
+Author: Sobol <sobol4156@gmail.com>
+Date:   Mon Jan 22 13:59:54 2024 +0300
+
+    Merge branch 'master' of https://github.com/sobol4156/ChessTS
+
+[33mcommit 9b63db6ca4e5f96fac2207cba60ced540944e792[m[33m ([m[1;31morigin/masterV2[m[33m, [m[1;32mmasterV2[m[33m)[m
+Author: Sobol <sobol4156@gmail.com>
+Date:   Mon Jan 22 13:30:39 2024 +0300
+
+    player logic work
+
+[33mcommit 91f121733ddb7c8e191ff50e82c0f59dc5bf83fe[m
+Author: Sobol <sobol4156@gmail.com>
+Date:   Mon Jan 22 12:40:06 2024 +0300
+
+    worker player logic yes
+
+[33mcommit cd317361b530605a38bf029c18b52c6e3e59c35a[m
+Author: Sobol <sobol4156@gmail.com>
+Date:   Mon Jan 22 11:49:48 2024 +0300
+
+    worker player logic
+
+[33mcommit 861b88be70843308adfc4571cdde6face03a3d56[m
+Author: Alex <147102432+sobol4156@users.noreply.github.com>
+Date:   Sun Jan 21 13:08:58 2024 +0300
+
+    Update README.md
+
+[33mcommit d4715da9d0782c3e44a65d9c635317527fcb2899[m
+Author: Sobol <sobol4156@gmail.com>
+Date:   Sun Jan 21 12:41:13 2024 +0300
+
+    Chess without rules
